@@ -1,0 +1,16 @@
+What I have
+    I think all the math and calculations check out perfectly :)
+    I'm really proud
+What I need to do
+    Finish formatting
+    Add good comments
+    Implement user input
+    Have croptimize() also output total profit and leftover money
+    Maybe add an 'if cant buy any crops: print because its past the last(largest) last_day"
+    Update functions to have seasons in the parameters where the season = the respective crop_dict
+    Clean actual code (LAST priority)
+    Use matplotlib to make pretty data (for fun/practice)
+
+Questions/Comments/Concerns
+    Are there cases, e.g., croptimize(1000,15) = 12 Cauliflower and 2 Parsnip, where not buying the parsnips and
+    using the saved money would be better to use the next day?

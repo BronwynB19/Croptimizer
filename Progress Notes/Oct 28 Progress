@@ -1,0 +1,18 @@
+What I did
+    Implemented user input
+    I changed all the direct SpringCropData calls to Crop_Data.SpringCropData
+    Croptimize now outputs the unspent money from your budget
+What I need to
+    Finish formatting
+    Add good comments
+    Have croptimize() also output total profit
+    Maybe add an 'if cant buy any crops: print because its past the last(largest) last_day"
+    Update functions to have seasons in the parameters where the season = the respective crop_dict
+    Clean actual code (LAST priority)
+    Use matplotlib to make pretty data (for fun/practice)
+    Account for profession/buff bonuses for price/etc. (much later)
+    Update the functions to account for season (later)
+
+Questions/Comments/Concerns
+    Are there cases, e.g., croptimize(1000,15) = 12 Cauliflower and 2 Parsnip, where not buying the parsnips and
+    using the saved money would be better to use the next day?
